@@ -1,5 +1,3 @@
-# Moveit
-
 # install dependecies 
 $ npm install 
 
