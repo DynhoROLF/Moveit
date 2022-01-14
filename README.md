@@ -1,7 +1,7 @@
 # Moveit
 
-$ install dependecies 
-npm install 
+# install dependecies 
+$ npm install 
 
-$ run app
-npm run dev
+# run app
+$ npm run dev
